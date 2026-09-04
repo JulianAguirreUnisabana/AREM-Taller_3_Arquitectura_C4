@@ -1,12 +1,12 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 3: Arquitectura Actual del Sistema con el Modelo C4
 
 ## 📆 Fecha de la sesión
 _Indique la fecha de la clase en que se trabajó este taller._
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Brayan Presiga 
+- Julián Aguirre
+- Jorge Alarcon
 
 ## 🧠 Actividades realizadas en clase
 
