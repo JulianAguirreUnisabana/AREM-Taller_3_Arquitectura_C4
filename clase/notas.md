@@ -74,9 +74,9 @@ _(Pendiente de completar)_
 ## 🔁 Tareas definidas para complementar el taller
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Diseño y documentación del Diagrama c1 | Julián Aguirre | 06/09 |
+| Diseño y documentación del Diagrama c2 | Jorge Alarcon | 06/09 |
+| Creación de los diagramas en draw.io | Brayan Presiga | 06/09 |
 
 ---
 _Este documento resume el trabajo colaborativo realizado durante la sesión del Taller 3: Arquitectura Actual del Sistema con el Modelo C4 en el curso AREM - Universidad de La Sabana._
