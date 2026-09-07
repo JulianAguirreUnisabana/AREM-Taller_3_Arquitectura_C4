@@ -19,6 +19,7 @@
 - **¿Qué parte del trabajo se alcanzó a desarrollar?** Se completó el diagrama C1 con sus actores, sistemas y relaciones, junto con la descripción de cada elemento.
   
 ## 🧩 Boceto inicial del modelo
+<img width="762" height="452" alt="Taller 3 - Arquitectura Empresarial drawio" src="c1-contexto-borrador.drawio.jpeg" />
 > Diagrama de contexto (C1) elaborado en draw.io, mostrando los actores (Usuario Final, Mensajero, Operador Logístico), el sistema central (Plataforma RedExpress) y los sistemas externos (API de Notificaciones, Proveedor de Geolocalización).
 
 ## 📋 Tabla de actores, entidades o componentes
