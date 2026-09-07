@@ -57,7 +57,7 @@ El diagrama refleja las necesidades operativas descritas en el caso de RedExpres
 - **¿Qué herramientas se usaron?** Draw.io.
 - **¿Qué parte del trabajo se alcanzó a desarrollar?** Se completó el diagrama C2 con los 6 contenedores, las 2 piezas de infraestructura de soporte, y las 13 relaciones etiquetadas con su protocolo correspondiente (HTTPS/JSON, SQL, REST, Push/WebSocket).
 ## 🧩 Boceto inicial del modelo
-<img width="762" height="452" alt="Taller 3 - Arquitectura Empresarial drawio" src="c2-contenedores-borrador.drawio.jpeg" />
+<img width="762" height="452" alt="Taller 3 - Arquitectura Empresarial drawio" src="c2-contenedores-borrador.jpg" />
 > Diagrama de contenedores (C2) elaborado en draw.io, mostrando los 6 contenedores de la Plataforma RedExpress (App Móvil, Portal Web Operadores, Módulo de Gestión de Paquetes, Motor de Rutas, Seguimiento GPS, Sistema de Alertas), la infraestructura de soporte (Balanceador de Carga, Base de Datos Distribuida), y su conexión con los actores y sistemas externos ya definidos en el C1.
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
  
